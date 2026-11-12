@@ -35,5 +35,4 @@ public class CardApp {
         //print out the value of all the cards in the hand
         System.out.println("This hand is worth " + hand1.getValue());
     }
-
 }
